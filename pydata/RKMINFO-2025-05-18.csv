@@ -1,0 +1,6 @@
+H,20250518182331
+D,1,Warp,False,Warp DEV,Terminal,An Intelligent Terminal,Active
+D,2,Visual Studio Code,True,Microsoft,Editor,A powerful open-source code editor.,Active
+D,3,iTerm,False,iTerm2 Team,Terminal,A macOS terminal emulator with many features.,Active
+D,4,PostgreSQL,True,PostgreSQL Global Development Group,Database,An advanced open-source relational database.,Active
+T,4
